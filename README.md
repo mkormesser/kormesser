@@ -1,4 +1,4 @@
-# kormesser
+# Melissa Kormesser
 
 Data Analytics Master’s graduate with strong expertise in statistical modeling, machine learning, and data
 visualization, combined with over 15 years of leadership experience in retail operations. Proven ability to leverage
